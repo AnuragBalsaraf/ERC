@@ -28,6 +28,6 @@
 
 - Firstly, load all the dependencies.
 - I have kept things simple and consolidated into single .ipynb file. 
-- Just go to the end of 'EmotionfromConv.ipynb' and run the Inference model and get the desired output.
+- Just go to the end of 'ERC.ipynb' and run the Inference model and get the desired output.
 
 ## Report  : https://github.com/AnuragBalsaraf/ERC/blob/master/Report.pdf
